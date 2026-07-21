@@ -12,7 +12,7 @@ CI/CD와 인프라 자동화로 개발 생산성을 높이는 엔지니어로 �
 
 ---
 
-### What I Do
+### What I Do (무엇을 하는가)
 
 - **AWS 클라우드 인프라** 구축 및 운영
 - **Docker · Kubernetes** 컨테이너 배포 학습
@@ -45,8 +45,8 @@ CI/CD와 인프라 자동화로 개발 생산성을 높이는 엔지니어로 �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hayoung-929&show_icons=true&hide_border=true&bg_color=00000000&title_color=555&text_color=555&icon_color=555&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayoung-929&layout=compact&hide_border=true&bg_color=00000000&title_color=555&text_color=555" height="150"/>
+<img src="https://github-readme-stats-nu-ten-29.vercel.app/api?username=hayoung-929&show_icons=true&hide_border=true&bg_color=00000000&title_color=555&text_color=555&icon_color=555&count_private=true&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats-nu-ten-29.vercel.app/api/top-langs/?username=hayoung-929&layout=compact&hide_border=true&bg_color=00000000&title_color=555&text_color=555&cache_seconds=86400" height="150"/>
 
 </div>
 
