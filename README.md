@@ -42,7 +42,6 @@ CI/CD와 인프라 자동화로 개발 생산성을 높이는 엔지니어로 �
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
